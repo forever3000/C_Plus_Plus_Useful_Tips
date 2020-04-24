@@ -1,6 +1,5 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package ublox_serialization
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+# Changelog for package ublox_serialization
+
 
 1.2.0 (2019-11-19)
 ------------------
